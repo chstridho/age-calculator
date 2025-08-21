@@ -11,14 +11,6 @@ A simple and intuitive web-based age calculator that computes your exact age in 
 - **Multiple Date Formats**: Supports various date input methods
 - **Zero Dependencies**: Built with vanilla JavaScript for fast loading
 
-## Demo
-
-[Live Demo](https://chstridho.github.io/age-calculator) *(Replace with your actual GitHub Pages URL)*
-
-## Screenshot
-
-![Age Calculator Screenshot](screenshot.png) *(Add a screenshot of your application)*
-
 ## Getting Started
 
 ### Prerequisites
@@ -142,8 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Developer**: [Your Name]  
-**Email**: [your.email@example.com]  
+**Developer**: [chstridho]  
 **GitHub**: [@chstridho](https://github.com/chstridho)
 
 ## Changelog
